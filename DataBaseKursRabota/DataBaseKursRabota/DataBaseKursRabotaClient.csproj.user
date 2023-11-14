@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\References\CareProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\References\CityView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\References\FamilyView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\MainView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\References\PositionView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\References\PropertyView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\CatalogueView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\EmployeeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\GardenView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\GeneraView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\PlantView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\PlotView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\QueriesView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Tables\ServiceView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
